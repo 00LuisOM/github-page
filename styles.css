@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0; /* Un gris claro */
+    color: #333; /* Un gris oscuro para el texto */
+    text-align: center;
+    padding-top: 50px;
+}
+h1 {
+    color: #007bff; /* Un color azul llamativo */
+}
